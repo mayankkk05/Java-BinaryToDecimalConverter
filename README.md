@@ -31,4 +31,4 @@ A simple desktop GUI application built using Java Swing that converts binary num
 
 - Clone repository 
 - Compile using - javac Task1.java
-- Run using - java Task1.java
+- Run using - java Task1
