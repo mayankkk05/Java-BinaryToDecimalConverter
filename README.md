@@ -1,5 +1,5 @@
 # Java-BinaryToDecimalConverter
-
+---
 A simple desktop GUI application built using Java Swing that converts binary numbers into their decimal equivalent.
 
 ## Features
@@ -19,5 +19,16 @@ A simple desktop GUI application built using Java Swing that converts binary num
 
 ---
 
+## File Structure
+├── Task1.java 
+├── BinaryToDecimal.class
+├── Task1.class
+└── README.md
 
+---
 
+## How to Run
+
+- Clone repository 
+- Compile using - javac Task1.java
+- Run using - java Task1.java
