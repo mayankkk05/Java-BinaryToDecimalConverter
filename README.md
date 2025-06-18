@@ -21,8 +21,11 @@ A simple desktop GUI application built using Java Swing that converts binary num
 
 ## File Structure
 ├── Task1.java 
+
 ├── BinaryToDecimal.class
+
 ├── Task1.class
+
 └── README.md
 
 ---
